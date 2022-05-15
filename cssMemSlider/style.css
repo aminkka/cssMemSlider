@@ -153,7 +153,6 @@ label:hover  .label-area {
 @media (max-width: 768px) {
   body {
     align-items: flex-start;
-    background-color: white;
   }
   .container {
     justify-content: flex-start;
@@ -170,9 +169,6 @@ label:hover  .label-area {
 }
 
 @media (max-width: 620px) {
-  body {
-    background-color: white;
-  }
   .container {
     width: 80%;
   }
@@ -183,7 +179,6 @@ label:hover  .label-area {
     width: 100%;
   }
 }
-
 
 @keyframes pulse{
 	0%{box-shadow: 0 0 0 0 #262626;}
